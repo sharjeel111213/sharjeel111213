@@ -168,4 +168,4 @@ If you are a technical recruiter, hiring manager, or software engineer wishing t
 
 ---
 
-Developed with ❤️ by [Sharjeel Khan]
+Developed with ❤️ by Sharjeel Khan
