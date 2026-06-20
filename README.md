@@ -193,12 +193,15 @@ Built with modern tools and a stunning **Neon & Glassmorphism** aesthetic.
 
 | Home Screen | File Explorer | Secure Vault |
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a1b76222-ba76-45f4-9ccd-6eabe37541c4" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/afb13906-20f4-4c53-8761-beb4118f01da" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/49f337f9-a0a3-451b-8959-4d6d829cfb9c" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3614bc76-8654-4b4b-9cc7-29bb3876727c" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/fa57c5ce-b1d7-44a0-b93e-820f48e7b0d7" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/bc70d0cc-3dcf-4417-88ac-ab92489f25f0" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/35cfccdf-243a-4865-b227-75f73f1b3c00" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/59083f6b-a0f9-4aaa-a805-f5d21c6e6676" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d88a3cf6-ff54-4716-8714-731d22eef1f6" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ee030fe4-c5ef-44db-8bb4-bb65016e25ba" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8c81e1f-4877-46bb-bd21-fdbe897ae196" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/118b18d9-deeb-456e-9941-02f522f3c2ba" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/260e784a-34e2-4fb6-963f-6075915eda65" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d238acb7-53c1-4e30-88a8-86422599c0f7" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5467c1b3-390f-4dec-ae77-a5f844bd0f65" />
 
 ---
 
