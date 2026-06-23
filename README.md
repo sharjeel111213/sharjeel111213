@@ -205,7 +205,6 @@ Built with modern tools and a stunning **Neon & Glassmorphism** aesthetic.
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d5e80950-ffc2-43cc-911c-87bf7dd648f8" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/430ee822-febd-466e-8eb9-1243604ca0a1" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8ac2529c-b693-4fb3-b7c6-4f7dd84b2eec" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/44a3b580-69e8-4970-9139-ae71a9a9a840" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/09fc2b18-49a3-4846-98dc-0d412305c35f" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c2ac292a-7403-4992-abde-069d7ce6e0e3" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5605b043-9c96-4a3e-96e2-11da74152730" />
