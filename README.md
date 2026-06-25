@@ -199,6 +199,7 @@ Built with modern tools and a stunning **Neon & Glassmorphism** aesthetic.
 
 | Home Screen | File Explorer | Secure Vault |
 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b262df22-caa7-4cb2-bd04-e5753e012373" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/de291b41-832e-43a6-b54e-120a593572ff" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2558837f-c370-4a0b-8c23-8357cd12ea28" />
