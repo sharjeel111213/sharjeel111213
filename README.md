@@ -75,7 +75,7 @@ A modern, high-performance Android application designed to streamline student at
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b8325ed-24c7-4b11-a6ac-1d137345ec80" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6615c639-e08e-4026-862b-65521b84675e" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a3f722a9-51eb-4afa-8b93-9a23cd066ce4" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a1313f1-3da8-407f-a7cb-0c6d38a07720" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/043df7a1-4c58-46b7-9942-ce2ac76379a9" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3f945c09-b99d-4573-8279-9720f4079384" />
 
 ---
