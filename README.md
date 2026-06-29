@@ -26,15 +26,21 @@
 
 ---
 
-### 🚀 Production-Grade Ecosystems
+### 🚀 Featured Engineering Projects
 
-#### 🤖 Smart Todo Engine `🔒 Code Verified`
-> A native Android application that redefines task management by replacing typical authentication walls with robust local backups and AI contextual intelligence.
-* **Semantic Parsing:** Processes natural language tasks instantly via custom integration with `Google Gemini 2.0 Flash`.
-* **Mathematical Weighting:** Employs precise, local context-aware algorithms to score and prioritize daily operations.
-* **Data Resiliency:** Engineered with an offline-first strategy using Room DB, safely updating cloud nodes via Firestore.
+<br/>
+
+### 🤖 Smart Todo Engine
+![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![AI](https://img.shields.io/badge/🧠_Gemini-Integration-7F52FF?style=flat-square) ![Cloud](https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=flat-square)
+
+> *Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.*
+
+* ⚡ **AI Parsing Engine:** Integrated `Google Gemini 2.0 Flash` for processing natural language scheduling logic.
+* 🎯 **Smart Prioritization:** Context-aware automated scheduling scoring algorithms (0-100 analytics).
+* 💾 **Data Durability:** Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`.
+
 <details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
+  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
   <br/>
   <div align="center">
     <img width="30%" src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" />
@@ -44,14 +50,20 @@
 </details>
 
 <br/>
+<hr/>
+<br/>
 
-#### 📊 Student Attendance & Analytics System `🔒 Code Verified`
-> Enterprise-level educational logging utility designed for absolute data precision and localized biometric data handling.
-* **Biometric Hardware Layer:** Native integration with the Android `Biometric API` for quick and secure local system authorization.
-* **Reactive Core:** Employs unified relational query caching layers using SQLite wrapped in non-blocking `Kotlin Flow` streams.
-* **Dynamic Cloud Sync:** Built-in automated fallback mechanics managing data push cycles flawlessly over NoSQL clusters.
+### 📊 Student Attendance & Analytics
+![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![Security](https://img.shields.io/badge/🛡️_Biometrics-Secured-4285F4?style=flat-square) ![Database](https://img.shields.io/badge/Room-SQLite-007396?style=flat-square)
+
+> *High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.*
+
+* 🔐 **Local Verification:** Biometric device access management implemented using the Android `Biometric API`.
+* 🚀 **Reactive Caching:** Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams.
+* ☁️ **Data Integrity:** Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`.
+
 <details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
+  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
   <br/>
   <div align="center">
     <img width="30%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
@@ -61,14 +73,20 @@
 </details>
 
 <br/>
+<hr/>
+<br/>
 
-#### 🎵 MusicStream Platform `🔒 Code Verified`
-> Custom audio distribution pipeline maximizing low-latency playback mechanics across dynamic hardware environments.
-* **Foreground Media Processing:** Implements a comprehensive playback system leveraging the modern `Android Media3 (ExoPlayer)` framework.
-* **Adaptive Interface:** Dynamic colors extracted synchronously from artwork using the native Android `Palette API`.
-* **Network Isolation:** Custom OkHttp network interceptors managing smart rotation configurations for maximum server uptime.
+### 🎵 MusicStream App
+![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![Media](https://img.shields.io/badge/▶️_ExoPlayer-Media3-E64A19?style=flat-square) ![Network](https://img.shields.io/badge/OkHttp-Interceptors-4CAF50?style=flat-square)
+
+> *High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.*
+
+* 🎧 **Playback Pipeline:** Advanced background foreground media bindings utilizing modern `Android Media3 (ExoPlayer)`.
+* 🎨 **Dynamic Canvas:** Real-time system UI adjustments generated using the Android `Palette API` on dynamic image assets.
+* 🌐 **Network Interceptors:** Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime.
+
 <details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
+  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
   <br/>
   <div align="center">
     <img width="30%" src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" />
@@ -78,14 +96,20 @@
 </details>
 
 <br/>
+<hr/>
+<br/>
 
-#### 📥 WhatsApp Status Utility `🌐 Open Source`
-> Low-footprint scoped storage utility designed to catch, stream, and catalog temporary system storage media instantly.
-* **State Management:** Asynchronous reactive states fully driven via structured coroutines and custom lifecycles.
-* **Immersive Design:** Fully declarative UI implementation utilizing custom Material Design 3 elements.
-* **Precision Scheduling:** Automated alarms and notifications wired securely through local Android system broad receivers.
+### 📥 WhatsApp Status Saver
+![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![UI](https://img.shields.io/badge/✨_Jetpack-Compose-4285F4?style=flat-square) ![Async](https://img.shields.io/badge/Kotlin-Coroutines-7F52FF?style=flat-square)
+
+> *Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.*
+
+* 🔄 **Reactive State:** Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines.
+* 💎 **Material Design:** Beautiful glassmorphic themes natively processed using declarative `Jetpack Compose` elements.
+* ⏰ **Automated Triggers:** Custom scheduling features processing notifications safely via system clock integrations.
+
 <details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
+  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
   <br/>
   <div align="center">
     <img width="30%" src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" />
@@ -95,14 +119,20 @@
 </details>
 
 <br/>
+<hr/>
+<br/>
 
-#### 📂 File Viewer Module `🔒 Code Verified`
-> Encrypted high-fidelity document asset explorer utilizing sandboxed filesystem architectures.
-* **Hardware Decoders:** Processes documents using strict encryption structures completely isolated from external app exposure.
-* **Multi-Extension Core:** Optimized multi-threaded rendering engine processing large JSON, XML, and PDF formats instantly.
-* **Edge-To-Edge Presentation:** Seamless view composition following rigorous Jetpack Compose edge constraint rules.
+### 📂 File Viewer Module
+![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![Security](https://img.shields.io/badge/🔐_Encrypted-Vault-607D8B?style=flat-square) ![Core](https://img.shields.io/badge/Multi--Threaded-Engine-FF5722?style=flat-square)
+
+> *Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.*
+
+* 🛡️ **Secure Vault:** Isolated filesystem processing encrypted structures and hidden states behind local system decoders.
+* 📄 **Multi-Format Engine:** Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs).
+* 📱 **UI Composition:** Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules.
+
 <details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
+  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
   <br/>
   <div align="center">
     <img width="30%" src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" />
@@ -110,25 +140,15 @@
     <img width="30%" src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" />
   </div>
 </details>
+<br/>
 
 ---
 
-### 🛡️ Architectural Repository Guard
-
-> **Notice for Engineering Leads & Tech Recruiters:**
-> To defend my intellectual property against plagiarism, source repositories for core enterprise applications are restricted. If you would like to run a formal code audit on my dependency injection setup, domain layers, or interceptor flows, I am happy to open access.
->
-> Please message me with your GitHub identifier on [LinkedIn](https://linkedin.com/in/sharjeelkhan-dev) or drop a line at [Email](mailto:sharjeelkhan454647@gmail.com) to receive an automated repository invitation.
-
----
-
-### 📊 Technical Health & Footprint
+<!-- ══════════════════════════════════════ ACTIVITY GRAPH ══ -->
+## 📈 Contribution Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharjeelkhan-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelkhan-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
 </div>
 
 ---
