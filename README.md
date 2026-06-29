@@ -20,7 +20,7 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h4>🎵 MusicStream</h4>
       <p>High-performance music streaming app featuring dual playback engines and offline-first data caching.</p>
       <ul>
@@ -28,15 +28,18 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li>Dynamic theme expansion using Material Design 3.</li>
         <li>Background syncing and scheduling via <code>WorkManager</code>.</li>
       </ul>
+      <!-- Manual Quick Links alternative to cards -->
+      <a href="https://github.com/sharjeelkhan-dev/MusicStream"><b>View Repository ↗</b></a>
     </td>
-    <td width="40%" valign="middle" align="center">
+    <td width="35%" valign="middle" align="center">
+      <!-- Agar direct mockup image lagani ho toh placeholder ki jagah image URL daal dein -->
       <a href="https://github.com/sharjeelkhan-dev/MusicStream">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharjeelkhan-dev&repo=MusicStream&theme=github_dark&hide_border=true&bg_color=0d1117" alt="MusicStream" />
+        <img src="https://images.unsplash.com/photo-1611339555312-e607c8352fd7?w=300&auto=format&fit=crop&q=60" width="180px" alt="MusicStream Source" style="border-radius: 8px;"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h4>📊 Student Attendance & Analytics</h4>
       <p>Academic tracking application implementing offline-first architecture with biometric verification.</p>
       <ul>
@@ -44,15 +47,16 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li>Real-time database sync via <code>Firebase Firestore</code>.</li>
         <li>Relational storage optimization using Room/SQLite.</li>
       </ul>
+      <a href="https://github.com/sharjeelkhan-dev/Student-Attendance-Analytics"><b>View Repository ↗</b></a>
     </td>
-    <td width="40%" valign="middle" align="center">
+    <td width="35%" valign="middle" align="center">
       <a href="https://github.com/sharjeelkhan-dev/Student-Attendance-Analytics">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharjeelkhan-dev&repo=Student-Attendance-Analytics&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Attendance App" />
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&auto=format&fit=crop&q=60" width="180px" alt="Analytics App" style="border-radius: 8px;"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h4>🧠 Smart To-Do List (AI-Powered)</h4>
       <p>Task prioritizing tool utilizing Generative AI for processing natural language scheduling.</p>
       <ul>
@@ -60,10 +64,11 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li>Localized file backup & restore mechanisms via <code>DataStore</code>.</li>
         <li>Dependency injection lifecycle handling with Dagger Hilt.</li>
       </ul>
+      <a href="https://github.com/sharjeelkhan-dev/Smart-ToDo"><b>View Repository ↗</b></a>
     </td>
-    <td width="40%" valign="middle" align="center">
+    <td width="35%" valign="middle" align="center">
       <a href="https://github.com/sharjeelkhan-dev/Smart-ToDo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharjeelkhan-dev&repo=Smart-ToDo&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Smart To-Do" />
+        <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=300&auto=format&fit=crop&q=60" width="180px" alt="AI To-Do" style="border-radius: 8px;"/>
       </a>
     </td>
   </tr>
