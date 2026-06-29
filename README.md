@@ -16,10 +16,14 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
 
 ---
 
+Maine screenshots ki quantity ko trim kar ke har project mein sirf **3 main screenshots** rakh diye hain (jo horizontal rows mein evenly grid structure mein fit ho jayenge). Is se profile load time aur clean structured display dono double ho jayenge.
+
+Aap is updated **Featured Projects** section ko copy karke replace kar sakte hain:
+
+```markdown
 ### 🚀 Featured Projects
 
 <table width="100%">
-  <!-- Project 1: Smart Todo -->
   <tr>
     <td valign="top">
       <h4>🤖 Smart Todo App (AI-Powered) 🔒 Private</h4>
@@ -28,21 +32,19 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>AI Parsing Engine:</b> Integrated <code>Google Gemini 2.0 Flash</code> for processing natural language scheduling logic.</li>
         <li><b>Smart Prioritization:</b> Context-aware automated scheduling scoring algorithms (0-100 analytics).</li>
         <li><b>Data Durability:</b> Offline-first sync with Room and real-time cloud data push over <code>Firebase Firestore</code>.</li>
-        <li><b>Security Compliance:</b> Protected infrastructure via <code>Firebase App Check</code> & Play Integrity integrations.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (3 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
         <br/>
         <div align="center">
-          <img width="23%" src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" />
-          <img width="23%" src="https://github.com/user-attachments/assets/e5c9e6c7-5ae4-4b55-b9ec-0202e09dd382" />
-          <img width="23%" src="https://github.com/user-attachments/assets/84961a13-5b77-402e-9574-e4ca0cac2ca9" />
+          <img width="30%" src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" />
+          <img width="30%" src="https://github.com/user-attachments/assets/e5c9e6c7-5ae4-4b55-b9ec-0202e09dd382" />
+          <img width="30%" src="https://github.com/user-attachments/assets/84961a13-5b77-402e-9574-e4ca0cac2ca9" />
         </div>
       </details>
     </td>
   </tr>
 
-  <!-- Project 2: Student Attendance -->
   <tr>
     <td valign="top">
       <h4>📊 Student Attendance & Analytics App 🔒 Private</h4>
@@ -53,18 +55,17 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>Data Integrity:</b> Managed automatic fallback cloud push syncing data over <code>Firebase NoSQL Architecture</code>.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (3 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
         <br/>
         <div align="center">
-          <img width="19%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
-          <img width="19%" src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" />
-          <img width="19%" src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" />
+          <img width="30%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
+          <img width="30%" src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" />
+          <img width="30%" src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" />
         </div>
       </details>
     </td>
   </tr>
 
-  <!-- Project 3: MusicStream -->
   <tr>
     <td valign="top">
       <h4>🎵 MusicStream App 🔒 Private</h4>
@@ -75,21 +76,20 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>Network Interceptors:</b> Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (3 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
         <br/>
         <div align="center">
-          <img width="23%" src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" />
-          <img width="23%" src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" />
-          <img width="23%" src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" />
+          <img width="30%" src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" />
+          <img width="30%" src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" />
+          <img width="30%" src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" />
         </div>
       </details>
     </td>
   </tr>
 
-  <!-- Project 4: Whatsapp Status Saver -->
   <tr>
     <td valign="top">
-      <h4>📥 WhatsApp Status Saver 🔒 Private</h4>
+      <h4>📥 WhatsApp Status Saver 🌐 Public</h4>
       <p>Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.</p>
       <ul>
         <li><b>Reactive State:</b> Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines.</li>
@@ -97,18 +97,17 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>Automated Triggers:</b> Custom scheduling features processing notifications safely via system clock integrations.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (3 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
         <br/>
         <div align="center">
-          <img width="23%" src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" />
-          <img width="23%" src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" />
-          <img width="23%" src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" />
+          <img width="30%" src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" />
+          <img width="30%" src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" />
+          <img width="30%" src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" />
         </div>
       </details>
     </td>
   </tr>
 
-  <!-- Project 5: File Viewer -->
   <tr>
     <td valign="top">
       <h4>📂 File Viewer App 🔒 Private</h4>
@@ -119,13 +118,12 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>UI Composition:</b> Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (4 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
         <br/>
         <div align="center">
-          <img width="19%" src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" />
-          <img width="19%" src="https://github.com/user-attachments/assets/a6780bb8-dcd1-4f97-a486-f68f0adfc10c" />
-          <img width="19%" src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" />
-          <img width="19%" src="https://github.com/user-attachments/assets/2558837f-c370-4a0b-8c23-8357cd12ea28" />
+          <img width="30%" src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" />
+          <img width="30%" src="https://github.com/user-attachments/assets/a6780bb8-dcd1-4f97-a486-f68f0adfc10c" />
+          <img width="30%" src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" />
         </div>
       </details>
     </td>
