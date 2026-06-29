@@ -71,7 +71,7 @@
 <tr>
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1 - Dashboard" /></td>
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/de20a08f-04d6-4548-83fe-2a11573e7bcf" width="100%" alt="Screen 3 - Report" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/a01a4f8a-693b-44ef-95e0-b8493b784875" width="100%" alt="Screen 3 - Report" /></td>
   </tr>
 </table>
 </details>
