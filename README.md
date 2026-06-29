@@ -27,109 +27,114 @@ Transforming architectural patterns into high-performance, responsive, and secur
 
 ---
 
+### 🚀 Featured Projects
 
-<p align="left">
-  <b>🔄 Reactive & Async Engine:</b><br/>
-  <img src="https://img.shields.io/badge/Coroutines-333?style=flat-square&logo=kotlincoroutines&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin%20Flow-333?style=flat-square&logo=flow&logoColor=white" />
-  <img src="https://img.shields.io/badge/StateFlow%20%2F%20SharedFlow-333?style=flat-square" />
-  <img src="https://img.shields.io/badge/WorkManager-333?style=flat-square&logo=android" />
-</p>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h4>🤖 Smart Todo App (AI-Powered) 🔒 Private</h4>
+      <p>Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.</p>
+      <ul>
+        <li><b>AI Parsing Engine:</b> Integrated <code>Google Gemini 2.0 Flash</code> for processing natural language scheduling logic.</li>
+        <li><b>Smart Prioritization:</b> Context-aware automated scheduling scoring algorithms (0-100 analytics).</li>
+        <li><b>Data Durability:</b> Offline-first sync with Room and real-time cloud data push over <code>Firebase Firestore</code>.</li>
+      </ul>
+      <details>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
+        <br/>
+        <div align="center">
+          <img width="30%" src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" />
+          <img width="30%" src="https://github.com/user-attachments/assets/e5c9e6c7-5ae4-4b55-b9ec-0202e09dd382" />
+          <img width="30%" src="https://github.com/user-attachments/assets/84961a13-5b77-402e-9574-e4ca0cac2ca9" />
+        </div>
+      </details>
+    </td>
+  </tr>
 
-<p align="left">
-  <b>💾 Caching & Network Layer:</b><br/>
-  <img src="https://img.shields.io/badge/Room%20Database-333?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit%202-333?style=flat-square" />
-  <img src="https://img.shields.io/badge/OkHttp%20Interceptors-333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firebase%20Suite-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
+  <tr>
+    <td valign="top">
+      <h4>📊 Student Attendance & Analytics App 🔒 Private</h4>
+      <p>High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.</p>
+      <ul>
+        <li><b>Local Verification:</b> Biometric device access management implemented using the Android <code>Biometric API</code>.</li>
+        <li><b>Reactive Caching:</b> Relational local optimization using Room/SQLite with reactive <code>Kotlin Flow</code> streams.</li>
+        <li><b>Data Integrity:</b> Managed automatic fallback cloud push syncing data over <code>Firebase NoSQL Architecture</code>.</li>
+      </ul>
+      <details>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
+        <br/>
+        <div align="center">
+          <img width="30%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
+          <img width="30%" src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" />
+          <img width="30%" src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" />
+        </div>
+      </details>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td valign="top">
+      <h4>🎵 MusicStream App 🔒 Private</h4>
+      <p>High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.</p>
+      <ul>
+        <li><b>Playback Pipeline:</b> Advanced background foreground media bindings utilizing modern <code>Android Media3 (ExoPlayer)</code>.</li>
+        <li><b>Dynamic Canvas:</b> Real-time system UI adjustments generated using the Android <code>Palette API</code> on dynamic image assets.</li>
+        <li><b>Network Interceptors:</b> Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime.</li>
+      </ul>
+      <details>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
+        <br/>
+        <div align="center">
+          <img width="30%" src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" />
+          <img width="30%" src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" />
+          <img width="30%" src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" />
+        </div>
+      </details>
+    </td>
+  </tr>
 
-### 🚀 Production-Grade Ecosystems
+  <tr>
+    <td valign="top">
+      <h4>📥 WhatsApp Status Saver 🔒 Private </h4>
+      <p>Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.</p>
+      <ul>
+        <li><b>Reactive State:</b> Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines.</li>
+        <li><b>Material Design:</b> Beautiful glassmorphic themes natively processed using declarative <code>Jetpack Compose</code> elements.</li>
+        <li><b>Automated Triggers:</b> Custom scheduling features processing notifications safely via system clock integrations.</li>
+      </ul>
+      <details>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
+        <br/>
+        <div align="center">
+          <img width="30%" src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" />
+          <img width="30%" src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" />
+          <img width="30%" src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" />
+        </div>
+      </details>
+    </td>
+  </tr>
 
-#### 🤖 Smart Todo Engine `🔒 Code Verified`
-> A native Android application that redefines task management by replacing typical authentication walls with robust local backups and AI contextual intelligence.
-* **Semantic Parsing:** Processes natural language tasks instantly via custom integration with `Google Gemini 2.0 Flash`.
-* **Mathematical Weighting:** Employs precise, local context-aware algorithms to score and prioritize daily operations.
-* **Data Resiliency:** Engineered with an offline-first strategy using Room DB, safely updating cloud nodes via Firestore.
-<details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" />
-    <img width="30%" src="https://github.com/user-attachments/assets/e5c9e6c7-5ae4-4b55-b9ec-0202e09dd382" />
-    <img width="30%" src="https://github.com/user-attachments/assets/84961a13-5b77-402e-9574-e4ca0cac2ca9" />
-  </div>
-</details>
-
-<br/>
-
-#### 📊 Student Attendance & Analytics System `🔒 Code Verified`
-> Enterprise-level educational logging utility designed for absolute data precision and localized biometric data handling.
-* **Biometric Hardware Layer:** Native integration with the Android `Biometric API` for quick and secure local system authorization.
-* **Reactive Core:** Employs unified relational query caching layers using SQLite wrapped in non-blocking `Kotlin Flow` streams.
-* **Dynamic Cloud Sync:** Built-in automated fallback mechanics managing data push cycles flawlessly over NoSQL clusters.
-<details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
-    <img width="30%" src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" />
-    <img width="30%" src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" />
-  </div>
-</details>
-
-<br/>
-
-#### 🎵 MusicStream Platform `🔒 Code Verified`
-> Custom audio distribution pipeline maximizing low-latency playback mechanics across dynamic hardware environments.
-* **Foreground Media Processing:** Implements a comprehensive playback system leveraging the modern `Android Media3 (ExoPlayer)` framework.
-* **Adaptive Interface:** Dynamic colors extracted synchronously from artwork using the native Android `Palette API`.
-* **Network Isolation:** Custom OkHttp network interceptors managing smart rotation configurations for maximum server uptime.
-<details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" />
-    <img width="30%" src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" />
-    <img width="30%" src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" />
-  </div>
-</details>
-
-<br/>
-
-#### 📥 WhatsApp Status Utility `🌐 Open Source`
-> Low-footprint scoped storage utility designed to catch, stream, and catalog temporary system storage media instantly.
-* **State Management:** Asynchronous reactive states fully driven via structured coroutines and custom lifecycles.
-* **Immersive Design:** Fully declarative UI implementation utilizing custom Material Design 3 elements.
-* **Precision Scheduling:** Automated alarms and notifications wired securely through local Android system broad receivers.
-<details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" />
-    <img width="30%" src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" />
-    <img width="30%" src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" />
-  </div>
-</details>
-
-<br/>
-
-#### 📂 File Viewer Module `🔒 Code Verified`
-> Encrypted high-fidelity document asset explorer utilizing sandboxed filesystem architectures.
-* **Hardware Decoders:** Processes documents using strict encryption structures completely isolated from external app exposure.
-* **Multi-Extension Core:** Optimized multi-threaded rendering engine processing large JSON, XML, and PDF formats instantly.
-* **Edge-To-Edge Presentation:** Seamless view composition following rigorous Jetpack Compose edge constraint rules.
-<details>
-  <summary><b>📸 System UI Preview (3 Featured Panels)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" />
-    <img width="30%" src="https://github.com/user-attachments/assets/a6780bb8-dcd1-4f97-a486-f68f0adfc10c" />
-    <img width="30%" src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" />
-  </div>
-</details>
+  <tr>
+    <td valign="top">
+      <h4>📂 File Viewer App 🔒 Private</h4>
+      <p>Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.</p>
+      <ul>
+        <li><b>Secure Vault:</b> Isolated filesystem processing encrypted structures and hidden states behind local system decoders.</li>
+        <li><b>Multi-Format Engine:</b> Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs).</li>
+        <li><b>UI Composition:</b> Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules.</li>
+      </ul>
+      <details>
+        <summary><b>📸 View Application UI Flow (3 Featured Screenshots)</b></summary>
+        <br/>
+        <div align="center">
+          <img width="30%" src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" />
+          <img width="30%" src="https://github.com/user-attachments/assets/a6780bb8-dcd1-4f97-a486-f68f0adfc10c" />
+          <img width="30%" src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" />
+        </div>
+      </details>
+    </td>
+  </tr>
+</table>
 
 ---
 
