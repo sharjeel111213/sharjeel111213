@@ -1,7 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18" alt="Sharjeel Khan" />
+</p>
 
-<!-- Modern Minimalist Header Banner -->
-![Sharjeel Khan](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18)
+<div align="center">
 
 ### 👋 Welcome to my Workspace
 *I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
@@ -10,34 +11,34 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharjeelkhan-dev)
 
+</div>
+
 ---
 
 ## ⚡ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,figma,git,github,gradle,java&theme=dark&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,figma,git,github,gradle,java&theme=dark&perline=8" />
 </div>
-
-<br>
-
-<div align="center">
 
 ---
 
-### 🚀 Featured Projects
-
-<br/>
+## 🚀 Featured Engineering Projects
 
 ### 🤖 Smart Todo Engine
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Cloud](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud" />
+</p>
 
-> *Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.*
+> Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.
 
-* ⚡ **AI Parsing Engine:** Integrated `Google Gemini 2.0 Flash` for processing natural language scheduling logic.
-* 🎯 **Smart Prioritization:** Context-aware automated scheduling scoring algorithms (0-100 analytics).
-* 💾 **Data Durability:** Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`.
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| ⚡ **AI Parsing Engine** | Integrated `Google Gemini 2.0 Flash` for processing natural language scheduling logic. |
+| 🎯 **Smart Prioritization** | Context-aware automated scheduling scoring algorithms (0-100 analytics). |
+| 💾 **Data Durability** | Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`. |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
@@ -56,13 +57,19 @@
 <br/>
 
 ### 📊 Student Attendance & Analytics
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Security" />
+  <img src="https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Database" />
+</p>
 
-> *High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.*
+> High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.
 
-* 🔐 **Local Verification:** Biometric device access management implemented using the Android `Biometric API`.
-* 🚀 **Reactive Caching:** Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams.
-* ☁️ **Data Integrity:** Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`.
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| 🔐 **Local Verification** | Biometric device access management implemented using the Android `Biometric API`. |
+| 🚀 **Reactive Caching** | Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams. |
+| ☁️ **Data Integrity** | Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`. |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
@@ -81,13 +88,19 @@
 <br/>
 
 ### 🎵 MusicStream App
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Media](https://img.shields.io/badge/Media3_ExoPlayer-E64A19?style=for-the-badge&logo=youtube&logoColor=white) ![Network](https://img.shields.io/badge/OkHttp_Network-4CAF50?style=for-the-badge&logo=android&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Media3_ExoPlayer-E64A19?style=for-the-badge&logo=youtube&logoColor=white" alt="Media" />
+  <img src="https://img.shields.io/badge/OkHttp_Network-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Network" />
+</p>
 
-> *High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.*
+> High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.
 
-* 🎧 **Playback Pipeline:** Advanced background foreground media bindings utilizing modern `Android Media3 (ExoPlayer)`.
-* 🎨 **Dynamic Canvas:** Real-time system UI adjustments generated using the Android `Palette API` on dynamic image assets.
-* 🌐 **Network Interceptors:** Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime.
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| 🎧 **Playback Pipeline** | Advanced background foreground media bindings utilizing modern `Android Media3 (ExoPlayer)`. |
+| 🎨 **Dynamic Canvas** | Real-time system UI adjustments generated using the Android `Palette API` on dynamic image assets. |
+| 🌐 **Network Interceptors** | Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime. |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
@@ -106,13 +119,19 @@
 <br/>
 
 ### 📥 WhatsApp Status Saver
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="UI" />
+  <img src="https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Async" />
+</p>
 
-> *Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.*
+> Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.
 
-* 🔄 **Reactive State:** Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines.
-* 💎 **Material Design:** Beautiful glassmorphic themes natively processed using declarative `Jetpack Compose` elements.
-* ⏰ **Automated Triggers:** Custom scheduling features processing notifications safely via system clock integrations.
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| 🔄 **Reactive State** | Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines. |
+| 💎 **Material Design** | Beautiful glassmorphic themes natively processed using declarative `Jetpack Compose` elements. |
+| ⏰ **Automated Triggers** | Custom scheduling features processing notifications safely via system clock integrations. |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
@@ -131,13 +150,19 @@
 <br/>
 
 ### 📂 File Viewer Module
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Encrypted_Vault-607D8B?style=for-the-badge&logo=android&logoColor=white) ![Core](https://img.shields.io/badge/Multi_Threaded-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Encrypted_Vault-607D8B?style=for-the-badge&logo=android&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Multi_Threaded-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Core" />
+</p>
 
-> *Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.*
+> Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.
 
-* 🛡️ **Secure Vault:** Isolated filesystem processing encrypted structures and hidden states behind local system decoders.
-* 📄 **Multi-Format Engine:** Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs).
-* 📱 **UI Composition:** Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules.
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| 🛡️ **Secure Vault** | Isolated filesystem processing encrypted structures and hidden states behind local system decoders. |
+| 📄 **Multi-Format Engine** | Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs). |
+| 📱 **UI Composition** | Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules. |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
@@ -151,15 +176,12 @@
 </table>
 </details>
 
-<br/>
-
 ---
 
-<!-- ══════════════════════════════════════ ACTIVITY GRAPH ══ -->
 ## 📈 Contribution Activity
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
 </div>
 
 ---
@@ -168,27 +190,25 @@
 If you are a technical recruiter, hiring manager, or software engineer wishing to conduct a comprehensive code review of any project's architecture (Hilt/Dagger DI modules, Clean Architecture boundaries, or custom networking interceptors), please feel free to request access:
 
 1. Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com).
-
 2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
 
 ---
 
 ## 📋 Prerequisites
-*   Android Studio Ladybug (or newer)
-*   JDK 17+
-*   Android SDK 26 (Android 8.0) or higher
+* Android Studio Ladybug (or newer)
+* JDK 17+
+* Android SDK 26 (Android 8.0) or higher
 
 ---
 
 ## 🏋️ Hobbies & Mindset
-*   Gym, building things
-*   I prefer deep logical reasoning and structured problem-solving
-*   I structure my code meticulously to achieve flawless performance
-*   I ensure absolute accuracy and clean architecture in everything I ship
+* Gym, building things
+* I prefer deep logical reasoning and structured problem-solving
+* I structure my code meticulously to achieve flawless performance
+* I ensure absolute accuracy and clean architecture in everything I ship
 
 ---
 
-<!-- Modern Minimalist Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
 </div>
