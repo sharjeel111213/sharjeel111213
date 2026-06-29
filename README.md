@@ -57,19 +57,18 @@
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 > *High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.*
-
 * 🔐 **Local Verification:** Biometric device access management implemented using the Android `Biometric API`.
 * 🚀 **Reactive Caching:** Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams.
 * ☁️ **Data Integrity:** Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`.
 
 <details>
-  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
-    <img width="30%" src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" />
-    <img width="30%" src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" />
-  </div>
+<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
+<br/>
+<div align="center">
+<img width="30%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
+<img width="30%" src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" />
+<img width="30%" src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" />
+</div>
 </details>
 
 <br/>
@@ -155,10 +154,10 @@
 ---
 
 ## 💼 Recruiter Code Review Access
-
 If you are a technical recruiter, hiring manager, or software engineer wishing to conduct a comprehensive code review of any project's architecture (Hilt/Dagger DI modules, Clean Architecture boundaries, or custom networking interceptors), please feel free to request access:
 
 1. Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com).
+
 2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
 
 ---
