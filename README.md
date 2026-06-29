@@ -24,9 +24,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
-### 🤖 Smart Todo App
+### 🤖 Smart Todo Engine
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Cloud](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 > Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.
@@ -53,7 +53,7 @@
 <hr/>
 <br/>
 
-### 📊 Student Attendance & Analytics App
+### 📊 Student Attendance & Analytics
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 > High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.
@@ -69,11 +69,9 @@
 <br/>
 <table width="100%">
   <tr>
-<td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1" /></td>
-<td <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/99a0140f-2aec-4c23-826b-4dac66f57c79" />
-td>
-<td<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/06e29204-d114-4f0a-9a23-e45ce85ca474" />
-td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" width="100%" alt="Screen 3" /></td>
   </tr>
 </table>
 </details>
@@ -99,10 +97,8 @@ td>
 <table width="100%">
   <tr>
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1" /></td>
-    <td <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/18cd266c-6c6c-4d64-b561-c16e32135f2d" />
-/td>
-    <td <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/47085461-beba-4c03-a2d4-45845c807b96" />
-td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" width="100%" alt="Screen 3" /></td>
   </tr>
 </table>
 </details>
@@ -111,7 +107,7 @@ td>
 <hr/>
 <br/>
 
-### 📥 WhatsApp Status Saver App
+### 📥 WhatsApp Status Saver
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 > Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.
@@ -138,7 +134,7 @@ td>
 <hr/>
 <br/>
 
-### 📂 File Viewer App
+### 📂 File Viewer Module
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Encrypted_Vault-607D8B?style=for-the-badge&logo=android&logoColor=white) ![Core](https://img.shields.io/badge/Multi_Threaded-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 > Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.
