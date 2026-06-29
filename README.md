@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Android Developer | Lahore, Pakistan
-
-Android Developer with 6 months of experience shipping 4+ offline-first Android applications using Kotlin, Jetpack Compose, MVVM, and Clean Architecture. Reduced bug recurrence by 30% and application crashes by 25% through systematic code reviews and architectural best practices. Skilled in cross-functional Agile/Scrum collaboration, Firebase, RESTful APIs, CI/CD pipelines, and AI integration using Google Gemini.
+I'm **Sharjeel Khan**, an Android developer based in Pakistan.
+I design and build whatever I can imagine. 
+If an idea pops into my head, chances are I'll build it and ship it.
 
 </div>
 
