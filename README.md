@@ -39,11 +39,13 @@
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
 <table width="100%">
-  <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" width="100%" alt="Screen 1" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/e5c9e6c7-5ae4-4b55-b9ec-0202e09dd382" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/84961a13-5b77-402e-9574-e4ca0cac2ca9" width="100%" alt="Screen 3" /></td>
-  </tr>
+ <table>
+ <tr>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/0687323d-7c9c-42cd-adef-e3a5af4370b3" width="100%" alt="Screen 1 (Chat)" /></td>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Settings)" /></td>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Profile)" /></td>
+ </tr>
+</table>
 </table>
 </details>
 
