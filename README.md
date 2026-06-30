@@ -6,29 +6,19 @@
 
 <div align="center">
 
-<div align="center">
+### 👋 Welcome to my Workspace
+*I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
 
-# 👋 Welcome to my Workspace
+<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a>      <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
 
-### *I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
-
-<p align="center">
-  <a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sharjeelkhan454647@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
 ---
 
 ## ⚡ Tech Stack
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,git,github,figma&theme=dark&perline=8" alt="Sharjeel's Tech Stack" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,figma,git,github,gradle,java&theme=dark&perline=8" />
 </div>
 
 ---
