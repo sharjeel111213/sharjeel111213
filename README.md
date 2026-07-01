@@ -15,17 +15,49 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Architecture Ecosystem
 
-<table>
-  <tr>
-    <td align="left" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle&theme=dark" alt="Core Development Stack" />
+A curated breakdown of the core technologies, modern design frameworks, and low-latency infrastructure utilized across my production ecosystems:
+
+<table border="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <!-- Row 1: Core Languages -->
+  <tr style="border: none;">
+    <td align="left" width="12%" style="border: none; valign: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=kotlin,java&theme=dark" alt="Languages" />
+    </td>
+    <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
+      <b>🚀 Core Development & Logic</b><br/>
+      <font size="2" color="#8b949e">Asynchronous asynchronous reactivity engineered with clean Kotlin Coroutines, reactive flows, Java legacy bridges, and complex multi-threaded scheduling logic.</font>
     </td>
   </tr>
-  <tr>
-    <td align="left" style="border: none; padding-top: 10px;">
-      <img src="https://skillicons.dev/icons?i=firebase,git,github,figma&theme=dark" alt="Infrastructure & Design Stack" />
+  <!-- Row 2: IDE & Engineering -->
+  <tr style="border: none;">
+    <td align="left" width="12%" style="border: none; valign: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=androidstudio,gradle&theme=dark" alt="IDE & Build" />
+    </td>
+    <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
+      <b>🛠️ IDE & Build Automation</b><br/>
+      <font size="2" color="#8b949e">Advanced debugging in Android Studio Ladybug+, dependency injection boundaries (Hilt), version management, and automated compilation with structured Gradle build variants.</font>
+    </td>
+  </tr>
+  <!-- Row 3: Infrastructure & Storage -->
+  <tr style="border: none;">
+    <td align="left" width="12%" style="border: none; valign: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=firebase,git,github&theme=dark" alt="Infrastructure" />
+    </td>
+    <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
+      <b>☁️ Cloud Infrastructure & DevOps</b><br/>
+      <font size="2" color="#8b949e">Real-time NoSQL synchronization using Firebase Firestore, persistent offline caching protocols, clean Git branch flow, and repository asset governance models.</font>
+    </td>
+  </tr>
+  <!-- Row 4: UI/UX Design -->
+  <tr style="border: none;">
+    <td align="left" width="12%" style="border: none; valign: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design Canvas" />
+    </td>
+    <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
+      <b>🎨 Material Design & UI Canvas</b><br/>
+      <font size="2" color="#8b949e">Translating high-fidelity Figma canvas components into declarative Jetpack Compose UI state functions, utilizing Material Design 3 and responsive systemic themes.</font>
     </td>
   </tr>
 </table>
