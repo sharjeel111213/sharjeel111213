@@ -15,9 +15,7 @@
 
 ---
 
-## ⚡ Tech Stack
-
-A minimalist breakdown of the core technologies and modern architecture patterns utilized across my production ecosystems:
+## ⇛ Tech Stack
 
 <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
   <!-- Row 1: Core Languages -->
