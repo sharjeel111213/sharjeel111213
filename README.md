@@ -17,8 +17,6 @@
 
 ## ⚡ Tech Stack & Architecture Ecosystem
 
-A curated breakdown of the core technologies, modern design frameworks, and low-latency infrastructure utilized across my production ecosystems:
-
 <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
   <!-- Row 1: Core Languages -->
   <tr style="border: none;">
@@ -26,7 +24,7 @@ A curated breakdown of the core technologies, modern design frameworks, and low-
       <img src="https://skillicons.dev/icons?i=kotlin,java&theme=dark" alt="Languages" />
     </td>
     <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
-      <b>🚀 Core Development & Logic</b><br/>
+      <b> Core Development & Logic</b><br/>
       <font size="2" color="#8b949e">Asynchronous asynchronous reactivity engineered with clean Kotlin Coroutines, reactive flows, Java legacy bridges, and complex multi-threaded scheduling logic.</font>
     </td>
   </tr>
@@ -36,7 +34,7 @@ A curated breakdown of the core technologies, modern design frameworks, and low-
       <img src="https://skillicons.dev/icons?i=androidstudio,gradle&theme=dark" alt="IDE & Build" />
     </td>
     <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
-      <b>🛠️ IDE & Build Automation</b><br/>
+      <b> IDE & Build Automation</b><br/>
       <font size="2" color="#8b949e">Advanced debugging in Android Studio Ladybug+, dependency injection boundaries (Hilt), version management, and automated compilation with structured Gradle build variants.</font>
     </td>
   </tr>
@@ -56,7 +54,7 @@ A curated breakdown of the core technologies, modern design frameworks, and low-
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design Canvas" />
     </td>
     <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
-      <b>🎨 Material Design & UI Canvas</b><br/>
+      <b> Material Design & UI Canvas</b><br/>
       <font size="2" color="#8b949e">Translating high-fidelity Figma canvas components into declarative Jetpack Compose UI state functions, utilizing Material Design 3 and responsive systemic themes.</font>
     </td>
   </tr>
