@@ -15,7 +15,7 @@
 
 ---
 
-## ⚡ Tech Stack & Architecture Ecosystem
+## ⚡Tech Stack
 
 <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
   <!-- Row 1: Core Languages -->
@@ -25,7 +25,7 @@
     </td>
     <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
       <b> Core Development & Logic</b><br/>
-      <font size="2" color="#8b949e">Asynchronous asynchronous reactivity engineered with clean Kotlin Coroutines, reactive flows, Java legacy bridges, and complex multi-threaded scheduling logic.</font>
+      <font size="2" color="#8b949e">Asynchronous reactive programming engineered with Kotlin Coroutines, Kotlin Flow, and clean thread scheduling</font>
     </td>
   </tr>
   <!-- Row 2: IDE & Engineering -->
@@ -35,7 +35,7 @@
     </td>
     <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
       <b> IDE & Build Automation</b><br/>
-      <font size="2" color="#8b949e">Advanced debugging in Android Studio Ladybug+, dependency injection boundaries (Hilt), version management, and automated compilation with structured Gradle build variants.</font>
+      <font size="2" color="#8b949e">Native development in Android Studio, multi-variant compilation management, and optimized Gradle build scripting.</font>
     </td>
   </tr>
   <!-- Row 3: Infrastructure & Storage -->
@@ -44,8 +44,8 @@
       <img src="https://skillicons.dev/icons?i=firebase,git,github&theme=dark" alt="Infrastructure" />
     </td>
     <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
-      <b>☁️ Cloud Infrastructure & DevOps</b><br/>
-      <font size="2" color="#8b949e">Real-time NoSQL synchronization using Firebase Firestore, persistent offline caching protocols, clean Git branch flow, and repository asset governance models.</font>
+      <b> Cloud Infrastructure & DevOps</b><br/>
+      <font size="2" color="#8b949e">Real-time data caching, Firestore cloud synchronization pipelines, and structured Git workflow architectures.</font>
     </td>
   </tr>
   <!-- Row 4: UI/UX Design -->
@@ -55,14 +55,14 @@
     </td>
     <td align="left" width="88%" style="border: none; valign: middle; padding: 12px 15px;">
       <b> Material Design & UI Canvas</b><br/>
-      <font size="2" color="#8b949e">Translating high-fidelity Figma canvas components into declarative Jetpack Compose UI state functions, utilizing Material Design 3 and responsive systemic themes.</font>
+      <font size="2" color="#8b949e">Translating Figma designs into pixel-perfect, declarative layouts using modern Jetpack Compose and Material 3.</font>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+## ⇛ Featured Projects
 
 ### 🤖 Smart Todo App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Cloud](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
